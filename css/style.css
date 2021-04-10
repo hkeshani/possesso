@@ -1,7 +1,6 @@
 body {
   padding: 0px;
   margin: 0px;
-  font-family: "Helvetica", sans-serif;
   overflow: hidden;
 }
 
@@ -96,6 +95,7 @@ body {
 }
 
 .chapter-header {
+  font-family: "Garamond", serif;
   display: block;
   text-align: center;
   font-size: 1.2em;
