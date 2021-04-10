@@ -114,10 +114,11 @@ a.source:visited {
 }
 
 .description {
-  line-height: 130%;  
+  line-height: 140%;  
   margin: 20px;
   text-align: left;
-  font-size: 11pt;
+  font-family: 'Trebuchet MS', sans-serif;
+  font-size: 14pt;
   padding: 20px;
 }
 
