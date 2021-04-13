@@ -116,16 +116,6 @@ $(window).on('load', function() {
         position: getSetting('_zoomControls')
       }).addTo(map);
     }
-
-
-    // Add location control
-    if (getSetting('_mapMyLocation') !== 'off') {
-      var locationControl = L.control.locate({
-        keepCurrentZoomLevel: true,
-        returnToPrevBounds: true,
-        position: getSetting('_mapMyLocation')
-      }).addTo(map);
-    }
     
     var markers = [];
 
