@@ -135,6 +135,7 @@ a.source:visited {
   visibility: hidden;
 }
 
+/*
 .leaflet-control-custom {
   padding: 6px 8px;
   background: white;
@@ -146,6 +147,7 @@ a.source:visited {
 .leaflet-control-geocoder {
   z-index: 9999;
 }
+*/
 
 .leaflet-marker-icon {
   opacity: 0.75;
