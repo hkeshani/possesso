@@ -109,7 +109,8 @@ $(window).on('load', function() {
 
     // Load tiles
     addBaseMap();
- 
+    
+/* 
     // Add location control
     if (getSetting('_mapMyLocation') !== 'off') {
       var locationControl = L.control.locate({
@@ -118,7 +119,8 @@ $(window).on('load', function() {
         position: getSetting('_mapMyLocation')
       }).addTo(map);
     }
-    
+*/
+  
     // Add zoom controls if needed
     if (getSetting('_zoomControls') !== 'off') {
       L.control.zoom({
