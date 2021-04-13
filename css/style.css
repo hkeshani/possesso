@@ -135,6 +135,18 @@ a.source:visited {
   visibility: hidden;
 }
 
+.leaflet-control-custom {
+  padding: 6px 8px;
+  background: white;
+  box-shadow: 0 1px 5px rgba(0,0,0,0.4);
+  color: #333;
+  border-radius: 5px;
+}
+
+.leaflet-control-geocoder {
+  z-index: 9999;
+}
+
 .leaflet-marker-icon {
   opacity: 0.75;
 }
