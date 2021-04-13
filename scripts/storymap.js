@@ -109,6 +109,14 @@ $(window).on('load', function() {
 
     // Load tiles
     addBaseMap();
+    
+    // Add zoom controls if needed
+    if (getSetting('_zoomControls') !== 'off') {
+      L.control.zoom({
+        position: getSetting('_zoomControls')
+      }).addTo(map);
+    }
+
 
     // Add location control
     if (getSetting('_mapMyLocation') !== 'off') {
@@ -119,13 +127,6 @@ $(window).on('load', function() {
       }).addTo(map);
     }
     
-    // Add zoom controls if needed
-    if (getSetting('_zoomControls') !== 'off') {
-      L.control.zoom({
-        position: getSetting('_zoomControls')
-      }).addTo(map);
-    }
-
     var markers = [];
 
     var markActiveColor = function(k) {
