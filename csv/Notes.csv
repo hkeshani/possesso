@@ -1,0 +1,26 @@
+"Recommended: Add any source notes about your storymap here, to help you and others find information."
+"Notes do not appear in the storymap, but are visible to anyone who views this sheet."
+
+Original source code on github
+https://github.com/HandsOnDataViz/leaflet-storymaps-with-google-sheets
+
+Example
+https://handsondataviz.github.io/leaflet-storymaps-with-google-sheets/index.html#11
+
+Mapwarper to georectify maps
+https://mapwarper.net/
+"
+"
+GeoSONIO tool guide to draw lines on map
+https://handsondataviz.org/geojsonio.html
+https://geojson.io/#map=2/20.0/0.0
+
+Mapshaper tool guide to draw lines on map
+https://handsondataviz.org/mapshaper.html
+https://mapshaper.org/
+
+Original Google Sheets template
+https://docs.google.com/spreadsheets/d/1AO6XHL_0JafWZF4KEejkdDNqfuZWUk3SlNlQ6MjlRFM/edit#gid=0
+
+Tutorial
+https://HandsOnDataViz.org/leaflet-storymaps-with-google-sheets.html

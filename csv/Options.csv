@@ -1,0 +1,21 @@
+Setting,Customize,Hints
+Storymap Info,,"For help, see tutorial in HandsOnDataViz.org"
+Storymap Title,Possesso,
+Storymap Subtitle,<br>Pope Paul III's Processional Route in 16th C Rome<br><br><small>Scroll down <i class='fa fa-chevron-down'></i></small><br><br>,"Add your subtitle, or delete that portion"
+Storymap Logo,,Path to a logo image (e.g. media/cthumanities-logo.png)
+Google Analytics Tracking ID,,Sample format: UA-5488840-29
+Map Settings,,"For help, see tutorial in HandsOnDataViz.org"
+Basemap Tiles,CartoDB.Positron,Drop-down menu for background basemap tiles
+Zoom Controls,topright,
+Narrative Background Color,#510000,
+Narrative Text Color,#e6e7d7,
+Narrative Link Color,#dfd4c9,
+Active Chapter Background Color,#ac7f7f,
+Media Container Height,300,"Maximum height of the image, in pixels. 200 is default. The image will be fit into the container with its proportions kept (it won't be skewed)."
+Pixels After Final Chapter,600,In pixels. At least 100
+Enable Lightbox for Images,yes,yes or no
+Credits,,"For help, see tutorial in HandsOnDataViz.org"
+Author Name,Drs. A. De Michelis & H. Keshani,"Appears in map credits as ""View data by..."" (or leave blank)"
+Author Email or Website,,Create link in Author Name by inserting your email or web address (or leave blank)
+Author GitHub Repo Link,https://github.com/hkeshani/possesso,"Insert your code repo URL to appear as link in ""View code..."" (or leave blank)"
+Code Credit,"<a href=""https://handsondataviz.org"">HandsOnDataViz</a>","Appears in credits as ""...code by..."" (or leave blank)"
